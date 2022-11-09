@@ -158,7 +158,7 @@ Luas Persegi: 25.0
 Keliling Persegi: 20.0
 ```
 
-[Klik disini untuk melihat Hasil screenshot](https://github.com/dhaffaardhana2002/praktikum3/blob/master/img/praktikum-hasil.png?raw=true)
+[Klik disini untuk melihat Hasil screenshot](https://raw.githubusercontent.com/dhaffaardhana2002/praktikum4/master/img/screenshot.png)
 
 ___
 Terima kasih untuk membaca tutorial saya. Tak lupa juga untuk dosen saya dan teman-teman saya yang sudah membantu saya.
